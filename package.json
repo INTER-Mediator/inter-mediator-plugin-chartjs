@@ -1,0 +1,29 @@
+{
+  "name": "inter-mediator-plugin-chartjs",
+  "version": "1.0.0",
+  "description": "INTER-Mediator plug-in to use the chart.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jest/bin/jest.js test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-plugin-chartjs.git"
+  },
+  "keywords": [
+    "INTER-Mediator",
+    "chart.js"
+  ],
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "chart.js": "*"
+  },
+  "author": "Masayuki Nii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INTER-Mediator/inter-mediator-plugin-chartjs/issues"
+  },
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-plugin-chartjs#readme"
+}
